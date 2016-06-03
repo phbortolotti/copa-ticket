@@ -1,0 +1,56 @@
+body {
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+.navbar-brand {
+    margin-top: 10px;
+    height: 50px;
+    font-size: 24px;
+}
+
+.nav >li >a {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 16px;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.col-escudo {
+    width: 50px;
+}
+
+.col-escudo img {
+    margin: 15px 0 0 0;
+    max-height: 64px;
+}
+
+.col-info h3 {
+    color: #333;
+}
+
+.col-info h5 {
+    color: #666;
+}
+
+.positivo {
+  color: #3ea909 !important;
+}
+
+.negativo {
+  color: #f00 !important;
+}
