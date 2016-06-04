@@ -30,27 +30,27 @@ textarea {
     max-width: 280px;
 }
 
+.title-pnl {
+    font-weight: bold;
+}
+
 .col-escudo {
-    width: 50px;
+    width: 10%;
 }
 
-.col-escudo img {
-    margin: 15px 0 0 0;
-    max-height: 64px;
+.col-time h3, .col-pontos h3, .col-ranking h1 {
+    font-weight: bold;
 }
 
-.col-info h3 {
-    color: #333;
-}
-
-.col-info h5 {
+.col-time h5, .col-pontos h4 {
     color: #666;
 }
 
-.positivo {
-  color: #3ea909 !important;
+.col-pontos h4 {
+    font-weight: bold;
 }
 
-.negativo {
-  color: #f00 !important;
+.col-escudo img {
+    margin-top: 15px;
+    max-height: 78px;
 }
